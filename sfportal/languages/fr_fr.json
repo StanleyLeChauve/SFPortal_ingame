@@ -1,0 +1,36 @@
+{
+  "version": "1",
+  "phrases": {
+    "actions": {
+      "reply": "Répondre",
+      "accept": "Accepter",
+      "deny": "Refuser",
+      "openchat": "Ouvrir le chat",
+      "soon": "Menu contextuel bientôt disponible"
+    },
+    "events": {
+      "denied_appeal": "%s a refusé cette demande",
+      "accepted_appeal": "%s a accepté cette demande"
+    },
+    "pages": {
+      "appeals": "Appels de bannissement",
+      "chat": "Chat",
+      "status": "Statut"
+    },
+    "states": {
+      "ongoing": "En cours",
+      "denied": "Refusé",
+      "approved": "Approuvé",
+      "pending": "En attente",
+      "solved": "Résolu"
+    },
+    "text": {
+      "nobanrecord": "Joueur",
+      "bancount": "%s bannissements enregistrés",
+      "involved": "Joueurs impliqués",
+      "message": "Messages",
+      "actions": "Actions",
+      "staff": "Membre du personnel"
+    }
+  }
+}
